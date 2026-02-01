@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(255, 111, 0);
+}
+h1, h2, li, p {
+    text-align: center;
+}
+
+h1 {
+    color: rgb(246, 243, 243);
+}
+
+p {
+    color: rgb(17, 11, 5);
+}
+
+button {
+    display: block;
+    margin: auto;
+    padding: 10px 20px;
+}
+
+button a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    margin: auto;
+    width: 800px;
+    height: 500px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
